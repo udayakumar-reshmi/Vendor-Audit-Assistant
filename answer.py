@@ -33,7 +33,7 @@ import time
 
 for attempt in range(5):
     try:
-        r = client.models.generate_content(model="gemini-3.8-flash", contents=prompt)
+        r = client.models.generate_content(model="gemini-3.5-flash-lite", contents=prompt)
         print(r.text)
         break
     except Exception as e:
