@@ -37,3 +37,7 @@ Python, Gemini API, Chroma, Streamlit
     streamlit run app.py
 
 Put GEMINI_API_KEY in a .env file.
+
+   ![Audit results](screenshot-results.png)
+
+   ![Draft CAP email](screenshot-email.png)
