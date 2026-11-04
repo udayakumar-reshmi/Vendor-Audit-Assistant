@@ -16,3 +16,8 @@ VENDOR COMPLIANCE SOP (SAMPLE)
 4. Scoring
 Critical = 10 points lost, Major = 5 points lost, Minor = 2 points lost.
 Starting score is 100.
+
+5. Severity Guide
+5.1 Expired statutory licences or certificates are Critical.
+5.2 Vehicle insurance expired or driver background check missing is Major.
+5.3 Salary delays are Major. PF or ESIC delays are Minor.
